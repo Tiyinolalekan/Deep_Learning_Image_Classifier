@@ -1,4 +1,4 @@
-# Deep_Learning_Image_Classifier
+
 # CIFAR-10 Image Classifier (CNN in PyTorch)
 
 A small convolutional neural network (CNN) built from scratch in PyTorch to classify images from the CIFAR-10 dataset. I built it as a hands-on way to learn how CNNs work, from loading the data through to training, evaluating, and inspecting predictions.
